@@ -33,7 +33,7 @@ React, Vue, or a mobile app.
 
 ``` bash
 git clone https://github.com/rivohenintsoa/task-api.git
-cd task-management-api
+cd task-api
 ```
 
 ### Install dependencies
